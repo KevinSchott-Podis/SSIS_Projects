@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "59_DataImport", "59_DataImport\59_DataImport.dtproj", "{AB5EF095-ED76-4A80-AAE0-7CCAC4B57505}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB5EF095-ED76-4A80-AAE0-7CCAC4B57505}.Development|Default.ActiveCfg = Development
+		{AB5EF095-ED76-4A80-AAE0-7CCAC4B57505}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
